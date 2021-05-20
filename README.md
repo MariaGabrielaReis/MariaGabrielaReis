@@ -3,9 +3,9 @@
 
 -  Estou atualmente cursando o 1º semestre de um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC, mas já sou formada Técnica em Informática pela ETEC. 
 
--  Estou aprendendo **HTML**, **CSS**, **JavaScript**, **Node.js** e **Python** :yellow_heart:
+-  Estou aprendendo **HTML**, **CSS** e **JavaScript** para criação de sites, além de **Python** e **Flask** para web e análise de dados :yellow_heart:
 
--  Pretendo aprender **TypeScript** e **React Native** também :blue_heart:
+-  Pretendo começar meus estudos sobre **TypeScript** e **React Native** num futuro próximo :blue_heart:
 
 -  Sou fascinada por tecnologias front-end e mobile, no entanto, recentemente tenho tido foco em tecnologias back-end e tenho me surpreendido. A cada dia me encanto mais com esse mundo vasto da programação e as pequenas alegrias de ver um código, seja simples ou difícil, cumprir a sua função :sparkles:
 
@@ -15,4 +15,5 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&show_icons=true)](https://github.com/MariaGabrielaReis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&show_icons=true&langs_count=6)](https://github.com/MariaGabrielaReis/github-readme-stats)
+
