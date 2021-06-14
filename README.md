@@ -15,5 +15,24 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&show_icons=true&langs_count=6)](https://github.com/MariaGabrielaReis/github-readme-stats)
 
+<center>
+  <table>
+    <tr>
+      <td>
+        <img
+          width="400px"
+          align="left"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&show_icons=true&langs_count=6&hide=jupyter%20notebook" 
+        />
+      </td>
+      <td>
+        <img
+          width="495px"
+          align="left"
+          src="https://github-readme-stats.vercel.app/api?username=MariaGabrielaReis&theme=dark&layout=compact&hide=prs"
+        />
+      </td>
+    <tr>
+  </table>
+</center>
