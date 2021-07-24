@@ -13,10 +13,10 @@
 
 <p align="center" >
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&bg_color=111217&show_icons=true&langs_count=6&hide=jupyter%20notebook" />
+        <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&bg_color=111217&show_icons=true&langs_count=6&hide=jupyter%20notebook" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MariaGabrielaReis&show_icons=true&title_color=fff&icon_color=4CA6A7&text_color=9f9f9f&bg_color=111217&hide=prs" />
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/?username=MariaGabrielaReis&show_icons=true&title_color=fff&icon_color=4CA6A7&text_color=9f9f9f&bg_color=111217&hide=prs" />
     </a>
 <p/>
 
