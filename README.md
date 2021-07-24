@@ -1,38 +1,22 @@
-## Oi, tudo bem? :sparkles:
-#### Bem vindo(a) ao meu perfil!
+## Bem vindo(a) ao meu perfil! :sparkles:
 
--  Estou atualmente cursando o 1º semestre de um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC, mas já sou formada Técnica em Informática pela ETEC. 
+- Meu nome é **Maria Gabriela**, estou cursando o 2º semestre de um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC, mas já sou formada Técnica em Informática pela ETEC. 
+- Atualmente eu...
+    - Estou revisando tecnologias para desenvolvimento web como **HTML** e **CSS** para o frontend e aprendendo **Python** com **Flask** para backend, além de Python com **Pandas** para análise de dados e metodologias ágeis como **SCRUM** na faculdade :yellow_heart:
+    - Estou participando do Ignite, um programa de aceleração de carreira promovido pela Rocketseat, onde estou começando meus estudos em **TypeScript** e **React Native** 💜
 
--  Estou aprendendo **HTML**, **CSS** e **JavaScript** para criação de sites, além de **Python** e **Flask** para web e análise de dados :yellow_heart:
-
--  Pretendo começar meus estudos sobre **TypeScript** e **React Native** num futuro próximo :blue_heart:
-
--  Sou fascinada por tecnologias front-end e mobile, no entanto, recentemente tenho tido foco em tecnologias back-end e tenho me surpreendido. A cada dia me encanto mais com esse mundo vasto da programação e as pequenas alegrias de ver um código, seja simples ou difícil, cumprir a sua função :sparkles:
+- Sou fascinada por tecnologias para frontend web e desenvolvimento mobile, mas tecnologias para backend e análise de dados sempre me surpreendem. A cada dia me encanto mais com esse mundo vasto da programação e as pequenas alegrias de ver um código, seja simples ou difícil, cumprir a sua função :sparkles:
 
 -  Se quiser entrar em contato comigo, você pode:
     -  :mailbox: Me mandar um e-mail: mariagabrielagreis@gmail.com 
     -  :busts_in_silhouette: Me mandar uma mensagem pelo LinkedIn: https://www.linkedin.com/in/mariagabrielareis/ 
 
-<br>
+<p align="center" >
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&bg_color=111217&show_icons=true&langs_count=6&hide=jupyter%20notebook" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=MariaGabrielaReis&show_icons=true&title_color=fff&icon_color=4CA6A7&text_color=9f9f9f&bg_color=111217&hide=prs" />
+    </a>
+<p/>
 
-
-<center>
-  <table>
-    <tr>
-      <td>
-        <img
-          width="400px"
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&theme=dark&show_icons=true&langs_count=6&hide=jupyter%20notebook" 
-        />
-      </td>
-      <td>
-        <img
-          width="495px"
-          align="left"
-          src="https://github-readme-stats.vercel.app/api?username=MariaGabrielaReis&theme=dark&layout=compact&hide=prs"
-        />
-      </td>
-    <tr>
-  </table>
-</center>
