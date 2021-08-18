@@ -1,11 +1,8 @@
 ## Bem vindo(a) ao meu perfil! :sparkles:
 
 - Meu nome é **Maria Gabriela**, estou cursando o 2º semestre de um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC, mas já sou formada Técnica em Informática pela ETEC. 
-- Atualmente eu...
-    - Estou revisando tecnologias para desenvolvimento web como **HTML** e **CSS** para o frontend e aprendendo **Python** com **Flask** para backend, além de Python com **Pandas** para análise de dados e metodologias ágeis como **SCRUM** na faculdade :yellow_heart:
-    - Estou participando do Ignite, um programa de aceleração de carreira promovido pela Rocketseat, onde estou começando meus estudos em **TypeScript** e **React Native** 💜
 
-- Sou fascinada por tecnologias para frontend web e desenvolvimento mobile, mas tecnologias para backend e análise de dados sempre me surpreendem. A cada dia me encanto mais com esse mundo vasto da programação e as pequenas alegrias de ver um código, seja simples ou difícil, cumprir a sua função :sparkles:
+- Se tratando do mundo do desenvolvimento web, estou revisando e aprendendo tecnologias como **HTML**, **CSS**, **JavaScript**, **Node** e **React**, já falando de desenvolvimento mobile, estou aprofundando meus conhecimentos em **TypeScript** e **React Native** através do Ignite, um programa de aceleração de carreira promovido pela Rocketseat 💜
 
 -  Se quiser entrar em contato comigo, você pode:
     -  :mailbox: Me mandar um e-mail: mariagabrielagreis@gmail.com 
