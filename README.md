@@ -1,4 +1,4 @@
-<img align="right" src="./my-octocat.png" width="300"/>
+<img align="right" src="./octocat.png" width="300"/>
 
 ## Bem vindo(a) ao meu perfil! :sparkles:
 
