@@ -1,3 +1,5 @@
+<img align="right" src="./my-octocat.png" width="300"/>
+
 ## Bem vindo(a) ao meu perfil! :sparkles:
 
 Meu nome é **Maria Gabriela**, sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC ✨ <br>
@@ -7,7 +9,8 @@ Se quiser entrar em contato comigo, você pode:
 - :mailbox: Me mandar um e-mail: mariagabrielagreis@gmail.com 
 - :busts_in_silhouette: Me mandar uma mensagem pelo LinkedIn: https://www.linkedin.com/in/mariagabrielareis/ 
 
-<hr>
+<br>
+<br>
 
 **Algumas tecnologias e ferramentas que eu já tive contato**
 
