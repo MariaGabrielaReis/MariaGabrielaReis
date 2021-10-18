@@ -7,7 +7,7 @@ Sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento d
 - Meus interesses são: UI/UX, metodologias ágeis e desenvolvimento mobile
 - Curiosidades sobre mim: tenho 1,48 de altura e adoro bolo de pote 😋
 
-:busts_in_silhouette: Se quiser entrar em contato comigo, você pode me mandar uma mensagem pelo [Linkedin](https://www.linkedin.com/in/mariagabrielareis/) ou me mandar um email!
+Se quiser entrar em contato comigo, você pode me mandar uma mensagem pelo [Linkedin](https://www.linkedin.com/in/mariagabrielareis/) ou me mandar um email!
 
 <br>
 
