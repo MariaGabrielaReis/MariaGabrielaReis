@@ -12,7 +12,7 @@ Sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento d
 
 Se quiser entrar em contato comigo, você pode me mandar uma mensagem pelo [Linkedin](https://www.linkedin.com/in/mariagabrielareis/) ou me mandar um email!
 
-<br>
+<hr>
 
 **Algumas tecnologias e ferramentas que eu já tive contato**
 
