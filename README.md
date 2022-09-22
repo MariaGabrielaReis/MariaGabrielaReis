@@ -4,7 +4,7 @@
 </p>
 
 Sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC!
-> :computer: Atualmente estagiária (em desenvolvimento mobile com Flutter) e desenvolvedora front-end em freelances, além de aluna do Ignite (da Rocketseat) e do JStack (do Mateus Silva)!
+> :computer: Atualmente Desenvolvedora Frontend (com React) e freelancer!
 
 - :heart: Sempre gostei de criar interfaces bonitas e funcionais, começando com desenvolvimento front-end em HTML e CSS e depois conhecendo JavaScript e TypeScript com o Node, React e React Native, além de ver Flutter
 - :mag_right: As extensões que mais tenho tido contato são: `.dart`, `.ts`, `.java` e `.sql`
