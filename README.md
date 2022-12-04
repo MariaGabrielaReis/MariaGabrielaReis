@@ -3,7 +3,7 @@
   <img alt="Banner de boas vindas" src="./banner.png" />
 </p>
 
-Sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento de Software Multiplataforma, na FATEC! Meu último semestre vai ser em dezembro de 2023, mas já estou acumulando diversas experiências como desenvolvedora e Scrum Master também :sparkles: 
+Sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento de Software Multiplataforma! Meu último semestre vai ser em dezembro de 2023, mas já estou acumulando diversas experiências como desenvolvedora e Scrum Master também :sparkles: 
 > :computer: Atualmente Dev Frontend (com React/Next) e freelancer!
 
 - :heart: Sempre gostei de criar interfaces bonitas e funcionais, comecei com HTML e CSS e depois conheci o mundo do JavaScript e TypeScript com o Node, React e React Native, mas também já trabalhei com Flutter!
