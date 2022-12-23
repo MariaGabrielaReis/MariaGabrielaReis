@@ -17,8 +17,11 @@ Se quiser entrar em contato comigo, você pode me mandar uma mensagem pelo [Link
 
 <details>
    <summary>Meus status (total de commits, PRs, issues e tecnologias mais usadas!)</summary>
-    <p>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaGabrielaReis&layout=compact&langs_count=6&theme=dark&bg_color=111217&show_icons=true&langs_count=6&hide=jupyter%20notebook" alt="Minhas linguagens de programação" />
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=MariaGabrielaReis&show_icons=true&title_color=fff&icon_color=4CA6A7&text_color=9f9f9f&bg_color=111217&hide=stars" alt="Status do GitHub" />
-    </p>
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaGabrielaReis&theme=vue) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaGabrielaReis&hide=Html&theme=vue) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaGabrielaReis&theme=vue) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaGabrielaReis&theme=vue) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MariaGabrielaReis&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=fff&stroke=2D3742&ring=41B883&fire=41B883&currStreakNum=2D3742&sideNums=41B883&currStreakLabel=41B883&sideLabels=black&dates=black) |
+| :-: | :-: |
+
 </details>
