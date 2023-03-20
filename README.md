@@ -25,3 +25,11 @@ Se quiser entrar em contato comigo, você pode me mandar uma mensagem pelo [Link
 | :-: | :-: |
 
 </details>
+
+<details>
+   <summary>Meus troféus no GitHub</summary>
+  
+<p align="center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=mariagabrielareis&theme=onedark" width = 100% />
+</p>
+</details>
