@@ -3,12 +3,12 @@
   <img alt="Banner de boas vindas" src="./banner.png" />
 </p>
 
-Sou Técnica em Informática e estou cursando um tecnólogo em Desenvolvimento de Software Multiplataforma! Meu último semestre vai ser em dezembro de 2023, mas já estou acumulando diversas experiências como desenvolvedora e Scrum Master também :sparkles: 
+Sou formada em Desenvolvimento de Software Multiplataforma e também Técnica em Informática, com experiência em desenvolvimento front-end e gestão de projetos :sparkles: 
 > :computer: Atualmente Dev Frontend (com React/Next) e freelancer!
 
-- :heart: Sempre gostei de criar interfaces bonitas e funcionais, comecei com HTML e CSS e depois conheci o mundo do JavaScript e TypeScript com o Node, React e React Native, mas também já trabalhei com Flutter!
-- Adoro eventos de programação, criar projetos novos, trabalhar em equipe ou sozinha, sempre que posso tento encaixar na minha rotina dupla de universitária aplicada e desenvolvedora em desenvolvimento 🥵
-- :mag_right: Meus interesses são: UI/UX, metodologias ágeis e desenvolvimento front-end
+- :heart: Sempre gostei de criar interfaces bonitas e funcionais, comecei com HTML e CSS e depois conheci o mundo do JavaScript e TypeScript com o Node, React e React Native, mas também já trabalhei com Dart/Flutter!
+- Amo criar projetos, trabalhar em equipe ou sozinha, então sempre que posso participo de eventos de programação e cursos 🚀
+- :mag_right: Meus interesses são: desenvolvimento front-end, gestão de projetos e metodologias ágeis
 - **Curiosidades sobre mim:** tenho 1,48 de altura e adoro bolo de pote :cake:
 
 Se quiser entrar em contato comigo, você pode me mandar uma mensagem pelo [Linkedin](https://www.linkedin.com/in/mariagabrielareis/) ou me mandar um email!
