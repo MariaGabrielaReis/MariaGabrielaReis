@@ -9,7 +9,7 @@
 ## Seja bem vindo(a) ao meu perfil!
 
 Meu nome é Maria Gabriela, muito prazer! Sou formada em Desenvolvimento de Software Multiplataforma e também Técnica em Informática, com experiência em desenvolvimento front-end, mobile e gestão de projetos.
-> :computer: No momento, atuo como desenvolvedora front-end na [Lifetime Investimentos](https://lftm.com.br/) </br>
+> :computer: No momento, atuo como desenvolvedora front-end no [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr) </br>
 >
 > ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
